@@ -1,18 +1,12 @@
-Movienator 🎬
-
-[Visit the Website](https://themovienator.netlify.app/)
-
-A web application that allows users to search for a movie and retrieve information about the selected movie, including details such as title, genre, duration, ratings, actors, director, and more. The project is powered by data from the OMDb API.
-
-## Screenshots 📷
-![movienator](https://github.com/ralphdaryn/movienator/assets/74474293/a6281ac4-de7e-4452-a175-c7b0a98119ee)
-![movienator-title](https://github.com/ralphdaryn/movienator/assets/74474293/e5458cab-7fc9-4481-82cd-c1c204b1487a)
-
-
+Movienator 🎬🎥
 
 ## Overview 🚀
 
 Movienator is a web application that allows users to search for their favorite movies and gather detailed information about them. The project leverages the OMDb API to retrieve movie data, and it's built with a modern tech stack, including HTML, CSS, Sass, JavaScript, and React.
+
+## Screenshots 📷
+![movienator](https://github.com/ralphdaryn/movienator/assets/74474293/a6281ac4-de7e-4452-a175-c7b0a98119ee)
+![movienator-title](https://github.com/ralphdaryn/movienator/assets/74474293/e5458cab-7fc9-4481-82cd-c1c204b1487a)
 
 ## Demo 🌐
 
