@@ -4,8 +4,10 @@ Movienator 🎬
 
 A web application that allows users to search for a movie and retrieve information about the selected movie, including details such as title, genre, duration, ratings, actors, director, and more. The project is powered by data from the OMDb API.
 
-## Screenshot 📷
+## Screenshots 📷
 ![movienator](https://github.com/ralphdaryn/movienator/assets/74474293/a6281ac4-de7e-4452-a175-c7b0a98119ee)
+![movienator-title](https://github.com/ralphdaryn/movienator/assets/74474293/e5458cab-7fc9-4481-82cd-c1c204b1487a)
+
 
 
 ## Overview 🚀
